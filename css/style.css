@@ -1,0 +1,14 @@
+/* Genel Ayarlar */
+
+body, .list-group-item{background-color: #E9ECEF}
+
+
+ /* Ana içerik alanı */
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: contain
+ 
+}
+
